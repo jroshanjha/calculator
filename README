@@ -1,0 +1,14 @@
+# Virtual Environment
+python -m venv code 
+
+🚀 Run the Calculator App Locally
+Install dependencies:
+pip install -r requirements.txt
+
+
+Start the app:
+streamlit run app.py
+
+
+
+docker-compose up --build
